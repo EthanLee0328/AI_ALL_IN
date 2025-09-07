@@ -1,0 +1,13 @@
+bi=0b1010
+oc=0o12
+de=10
+he=0xA
+print(bi)
+print(oc)
+print(de)
+print(he)
+print('-----------')
+print('十进制:',de)
+print('二进制:',bin(de))
+print('八进制:',oct(de))
+print('十六进制:',hex(de))
