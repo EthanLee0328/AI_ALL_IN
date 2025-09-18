@@ -92,3 +92,14 @@ if __name__ == '__main__':
     print(ma)
 
     ma.foreach(print)
+
+
+    
+
+
+
+
+
+
+
+
